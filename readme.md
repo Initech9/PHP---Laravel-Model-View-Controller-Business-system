@@ -1,5 +1,4 @@
-Learning laravel
-
+Laravel
 bartender 
-
-model view controller
+Model View Controller
+Item sales system
